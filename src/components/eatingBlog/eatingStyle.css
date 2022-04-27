@@ -1,0 +1,50 @@
+.box_meet {
+    margin-bottom: 4rem;
+}
+
+.box_meet .box_slide img {
+    width: 100%;
+}
+
+.box_meet .box_slide a {
+    margin-top: 0.8rem;
+    display: block;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 1.4rem;
+    color: #222;
+}
+
+.box_meet .box_slide a:hover {
+    color: var(--main-color);
+}
+
+.details_show {
+    margin: 2rem 0.1rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.details_show .det_image {
+    width: 58%;
+}
+
+.details_show .det_image img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.details_show .info {
+    width: 40%;
+}
+
+.details_show .info h3 {
+    color: var(--main-color);
+    margin: 2rem 0;
+}
+
+.details_show .info p {
+    font-size: 1rem;
+    color: #666;
+    line-height: 1.7;
+}

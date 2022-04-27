@@ -131,5 +131,79 @@
             "img": "https://diabetes.org/sites/default/files/styles/resources_card/public/2020-10/happy-fit-fitness-girl-exercising-indoor-in-fitnes-FWWRXU7.jpg",
             "des": "Anaerobic vs. Aerobic Exercise"
         }
+    ],
+    "food": [
+        {
+            "id": 1,
+            "name": "Breakfast Quesadilla",
+            "url": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/diabetic-breakfast-quesadilla-tex-mex-cookbook_080318_1021x779_3885281428.jpg",
+            "des": "breakfast"
+        },
+        {
+            "id": 2,
+            "name": "Breakfast Quesadilla",
+            "url": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/diabetic-breakfast-quesadilla-tex-mex-cookbook_080318_1021x779_3885281428.jpg",
+            "des": "breakfast"
+        },
+        {
+            "id": 3,
+            "name": "Breakfast Quesadilla",
+            "url": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/diabetic-breakfast-quesadilla-tex-mex-cookbook_080318_1021x779_3885281428.jpg",
+            "des": "breakfast"
+        },
+        {
+            "id": 4,
+            "name": "Breakfast Quesadilla",
+            "url": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/diabetic-breakfast-quesadilla-tex-mex-cookbook_080318_1021x779_3885281428.jpg",
+            "des": "breakfast"
+        },
+        {
+            "id": 5,
+            "name": "Latin Baked Fried Chicken",
+            "url": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/1751-espanol-diabetic-pollo-frito-al-horno_latin-comfort-foods_13020_3885281428.jpg",
+            "des": "lunch"
+        },
+        {
+            "id": 6,
+            "name": "Latin Baked Fried Chicken",
+            "url": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/1751-espanol-diabetic-pollo-frito-al-horno_latin-comfort-foods_13020_3885281428.jpg",
+            "des": "lunch"
+        },
+        {
+            "id": 7,
+            "name": "Latin Baked Fried Chicken",
+            "url": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/1751-espanol-diabetic-pollo-frito-al-horno_latin-comfort-foods_13020_3885281428.jpg",
+            "des": "lunch"
+        },
+        {
+            "id": 8,
+            "name": "Latin Baked Fried Chicken",
+            "url": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/1751-espanol-diabetic-pollo-frito-al-horno_latin-comfort-foods_13020_3885281428.jpg",
+            "des": "lunch"
+        },
+        {
+            "id": 9,
+            "name": "Spinach and Parmesan Egg Bites",
+            "url": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/1988-diabetic-Spinach-Parmesan-Quiche-Bites_KDBH-bookazine_012821_3885281428.jpg",
+            "des": "dinner"
+        },
+        {
+            "id":10,
+            "name": "Spinach and Parmesan Egg Bites",
+            "url": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/1988-diabetic-Spinach-Parmesan-Quiche-Bites_KDBH-bookazine_012821_3885281428.jpg",
+            "des": "dinner"
+        },
+        {
+            "id": 11,
+            "name": "Spinach and Parmesan Egg Bites",
+            "url": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/1988-diabetic-Spinach-Parmesan-Quiche-Bites_KDBH-bookazine_012821_3885281428.jpg",
+            "des": "dinner"
+        },
+        {
+            "id":12,
+            "name": "Spinach and Parmesan Egg Bites",
+            "url": "https://static.diabetesfoodhub.org/system/thumbs/system/images/recipes/1988-diabetic-Spinach-Parmesan-Quiche-Bites_KDBH-bookazine_012821_3885281428.jpg",
+            "des": "dinner"
+        }
     ]
 }

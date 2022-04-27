@@ -11,6 +11,8 @@ import DietForm from './components/Diet_eating/dietEatingtest';
 import Myplanner from "./components/myplanner/palnner";
 import EyeTest from "./components/eyeTest/eyeTest";
 import Sport from "./components/sport/sport";
+import EatingBlog from "./components/eatingBlog/eatingBlog";
+import Details from "./components/eatingBlog/details";
 
 function App() {
   return (
@@ -23,6 +25,8 @@ function App() {
         <Route path="/res" element={<Resualt />} />
         <Route path="/dietForm" element={<DietForm />} />
         <Route path="/myplanner" element={<Myplanner />} />
+        <Route path="/eatingblog" element={<EatingBlog />} />
+        <Route path="/details/:id" element={<Details />} />
         <Route path="/eyeTest" element={<EyeTest />} />
         <Route path="/sport" element={<Sport />} />
       </Routes>
