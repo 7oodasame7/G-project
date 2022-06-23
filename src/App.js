@@ -13,6 +13,8 @@ import EyeTest from "./components/eyeTest/eyeTest";
 import Sport from "./components/sport/sport";
 import EatingBlog from "./components/eatingBlog/eatingBlog";
 import Details from "./components/eatingBlog/details";
+import Advice from "./components/advices/advice";
+import FootTest from './components/footTest/footTest';
 
 function App() {
   return (
@@ -28,7 +30,9 @@ function App() {
         <Route path="/eatingblog" element={<EatingBlog />} />
         <Route path="/details/:id" element={<Details />} />
         <Route path="/eyeTest" element={<EyeTest />} />
+        <Route path="/footTest" element={<FootTest />} />
         <Route path="/sport" element={<Sport />} />
+        <Route path="/advice" element={<Advice />} />
       </Routes>
     </React.Fragment>
   )

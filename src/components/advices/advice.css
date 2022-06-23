@@ -1,0 +1,94 @@
+.image-advice {
+    min-height: 91vh;
+}
+
+.image-advice {
+    background: url(../../assets/advices.jpg) no-repeat center;
+    background-size: cover;
+}
+
+.image-advice .shadow {
+    background-color: #aa182cb5;
+}
+
+.showAdvices {
+    padding: 5rem 0.5rem;
+    background-color: rgb(244, 244, 244);
+}
+
+.advicesContent {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.advicesContent .frist {
+    width: 48%;
+    position: relative;
+}
+
+.advicesContent .frist.line::after {
+    content: '';
+    width: 0.2rem;
+    height: 100%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    background-color: var(--main-color);
+}
+
+.advicesContent .frist .box {
+    padding: 1rem 0;
+    margin: 3rem 0.1rem;
+    color: var(--hover-color);
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.advicesContent .frist .box.two {
+    margin: 3rem;
+}
+
+.advicesContent .frist .box.one::before {
+    content: '';
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border: 0.1rem solid var(--hover-color);
+    background-color: #fff;
+    z-index: 2;
+}
+
+.advicesContent .frist .box.one::before {
+    right: -10px;
+}
+
+.advicesContent .frist .emp {
+    height: 2rem;
+}
+
+/* .advicesContent .frist .box.two::after {
+    left: -14px;
+} */
+
+.advicesContent .frist .box.two {
+    display: flex;
+    align-items: center;
+    padding-left: 3rem;
+}
+
+.advicesContent .frist .box.two img {
+    width: 60px;
+    height: 60px;
+    margin-right: 1rem;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}

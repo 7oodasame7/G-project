@@ -110,9 +110,9 @@ const NavBar = () => {
                             </li>
                             <hr />
                             <li>
-                                <NavLink to="/faq" onClick={_ => hide(menu_bar)}>
+                                <NavLink to="/advice" onClick={_ => hide(menu_bar)}>
                                     <i class="fa fa-question-circle-o" aria-hidden="true"></i>
-                                    <span>FAQ</span>
+                                    <span>Advices</span>
                                 </NavLink>
                             </li>
                             <hr />
